@@ -1,0 +1,173 @@
+/************* TAG SELECTORS ***********/
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.4rem;
+}
+
+h1 {
+    font-size: 4.6875rem;
+    margin-top: 50px auto 0px auto; 
+    font-family: 'Sacramento', cursive;
+    color: #900c3f;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #900c3f;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #e84a5f;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 50%;
+    margin: 0px auto 0px auto;
+    }
+
+
+
+/************* CLASS SELECTORS ************/
+
+.topdiv {
+    background-color: #ccafaf;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middlediv {
+    background-color: #ffcac2;
+}
+
+.bottomdiv {
+   background-color: #ccafaf;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+
+.mountain {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    opacity: 70%;
+}
+
+.profile {
+    width: 50%;
+    margin: 0px auto 0px auto;
+}
+
+.profile-img {
+    width: 20%;
+    border-radius: 100%;
+    filter: sepia(60%);
+    margin-top: 0px;
+    box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -webkit-box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -moz-box-shadow: 1px 1px 20px 0px #e4e3e3;
+}
+
+.skill-row {
+    width:50%;
+    margin: 75px auto 75px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.writing-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -webkit-box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -moz-box-shadow: 1px 1px 20px 0px #e4e3e3;
+    opacity: 70%;
+}
+
+.developing-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -webkit-box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -moz-box-shadow: 1px 1px 20px 0px #e4e3e3;
+    opacity: 70%;
+}
+
+.button{
+    font-size: 1.4rem;
+    text-align: center;
+    display: inline-block;
+    padding: 0.75rem 2.5rem;
+    color: #e84a5f;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    position: relative;
+    margin: 5px auto 5px auto;
+    background-color: #fc9d9d;
+    opacity: 70%;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+    box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -webkit-box-shadow: 1px 1px 20px 0px #e4e3e3;
+    -moz-box-shadow: 1px 1px 20px 0px #e4e3e3;
+}
+
+.button:hover {
+    opacity: 95%
+}
+
+.contact-me {
+    width:50%;
+    margin: 30px auto 30px auto;
+    text-align: lcenter;
+    line-height: 2;
+}
+
+.footer-link {
+    font-size: 1.4rem;
+    text-align: center;
+    color: #e84a5f;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #e4e3e3;
+}
+
+.copyright {
+    color: #e4e3e3;
+    font-size: 1rem;
+    padding: 20px 0px;
+}
+
+/*************** ID SELECTORS ***********/
+
+
+
+
